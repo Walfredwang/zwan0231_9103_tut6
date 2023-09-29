@@ -24,10 +24,10 @@
 * How to make each particle change sizes themselves
 * How t achieve the diffusion of the partcles when cursor move around
 
-1. The coversion of the image can be achieve by making it pixelated and converted to png format so that it can be better used by web pages.
+1. The coversion of the image can be achieve by making it pixelated and converted to png format which can be better used by web pages.
 2. The particle sizes changing can be achieved by changing the radius of the particle based on the time , set a proper random range of the radius value. 
-3. The diffusion and image conversion can be achieved by the code below
-> Diffusion particle and coversion images
+3. The diffusion and image conversion can be achieved by the code below:
+> Diffusion particle and coversion images.
 [Image into particles](https://codepen.io/franksLaboratory/pen/dyYGMwQ)
 ![3](readmeimages/3.jpg)  ![4](readmeimages/4.jpg)
 
